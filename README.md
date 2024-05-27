@@ -170,7 +170,7 @@ Visualisations were produced based on the analytical questions asked. These visu
 9. What is the difference between RMSLE, RMSE, MSE (or why is the MAE greater than all of them?)
 10. Does the payment of wages in the public sector on the 15th and last days of the month influence the store sales.
 
-![dashboard]("../Downloads/image.png")
+!["https://github.com/FloJoLaryea/Customer_Churn_Analysis/blob/main/Customer_churn_Dashboard.png"](https://github.com/FloJoLaryea/Customer_Churn_Analysis/blob/main/Datasets/Customer_churn_Dashboard.png)
 - [Link to my dashboard](https://app.powerbi.com/groups/me/reports/bf7e0f4e-d2c5-42db-b22a-c9640b336372/152078cc5237c0300935?experience=power-bi)
 
 ## 🔎Data preparation and preprocessing
