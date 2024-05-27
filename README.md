@@ -202,7 +202,7 @@ The metrics used to evaluate the performance of the models were:
 ## 👀Observations
 After carefully assessing the performance of the models using key evaluation metrics, it is evident that the XGBoost model stands out as the most effective choice for the dataset. 
 
-The RMSLE (Root Mean Squared Logarithmic Error) serves as a crucial indicator, and the XGBoost model achieved the lowest RMSLE of 0.0054 among all models evaluated. This indicates that the XGBoost model provides the most accurate and precise predictions when compared to ARIMA, SARIMA, and Linear Regression models.
+The RMSLE (Root Mean Squared Logarithmic Error) serves as a crucial indicator, and the XGBoost model achieved the lowest RMSLE of 0.0011 among all models evaluated. This indicates that the XGBoost model provides the most accurate and precise predictions when compared to ARIMA, SARIMA, and Linear Regression models.
 
 
 
